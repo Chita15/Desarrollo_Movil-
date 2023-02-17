@@ -3,4 +3,4 @@ Prácticas y proyectos del curso: Desarrollo de Aplicaciones Móviles.
 
 ## Índice de Evidencias:
 
-[Actividad 1](./ContAPI.md) _Práctica 1: Consumo de API (PokeAPI)_
+[Actividad 1](./index.html) _Práctica 1: Consumo de API (PokeAPI)_
