@@ -8,10 +8,10 @@ _► Código Implementado:_ [Pokedex](./index.html)
 
 **1.** Vista general del programa.
 
-![VistaPOKEAPI](./Capturas/VistaPOKEAPI.jpg)
+![VistaPOKEAPI](./Capturas/VistaPOKEAPI.png)
 
 **2.** Ejecución del programa (Consumo de la API).
 
-![ConsumoAPI1](./Capturas/ConsumoAPI_1.jpg)
+![ConsumoAPI1](./Capturas/ConsumoAPI_1.png)
 
-![ConsumoAPI2](./Capturas/ConsumoAPI_2.jpg)
+![ConsumoAPI2](./Capturas/ConsumoAPI_2.png)
