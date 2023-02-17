@@ -1,8 +1,8 @@
 # **[ Práctica 1 ]** Consumo de una API.
 
-Link de la API utilizada: [PokeAPI](https://pokeapi.co/)
+► Link de la API utilizada: [PokeAPI](https://pokeapi.co/)
 
-_Código Implementado:_ [Pokedex](./index.html)
+_► Código Implementado:_ [Pokedex](./index.html)
 
 ## Muestras del Programa
 
