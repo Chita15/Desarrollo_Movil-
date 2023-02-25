@@ -1,10 +1,10 @@
 # **[ Práctica 2 ]** JavaScript + FireBase.
 
-_► Archivo index.js:_ [JSCode](./Horror-Movies-Implementations-master/index.js)
+_► Archivo index.js:_ [JSCode](./index.js)
 
-_► Archivo index.html:_ [HTMLCode](./Horror-Movies-Implementations-master/index.html)
+_► Archivo index.html:_ [HTMLCode](./index.html)
 
-_► Archivo data.json:_ [BancoPeliculas](./Horror-Movies-Implementations-master/data.json)
+_► Archivo data.json:_ [BancoPeliculas](./data.json)
 
 ## Muestras del Programa
 
