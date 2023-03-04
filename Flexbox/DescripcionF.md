@@ -2,16 +2,16 @@
 
 _► Link al juego:_ [FlexboxFroggy](https://flexboxfroggy.com/#es)
 
-_►Solución del juego:_ [FroggyCode](./index.html)
+_►Solución del juego:_ [FroggyCode](./Flexbox.css)
 
 ## Vistas del Programa
 
-**1.** Vista general al ingresar al juego.
+**1.** Mensaje de bienvenida general al ingresar al juego.
 
-![Capture](./Capturas/Capture.png)
+![Capture](./Capturas/Capture.PNG)
 
 **2.** Vista al ganar el juego.
 
-![Captura2](./Capturas/Captura2.png)
+![Captura2](./Capturas/Captura2.PNG)
 
-![Captura3](./Capturas/Captura3.png)
+![Captura3](./Capturas/Captura3.PNG)
